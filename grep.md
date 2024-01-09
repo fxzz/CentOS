@@ -1,4 +1,4 @@
-### grep
+### grep (find는 폴더,파일을 찾아줘 지만 grep는 파일 안에서 찾아달라는 개념)
 <br>
 netstat -atunp 을 하면 네트워크 상태를 볼수있다
 <br><br>
