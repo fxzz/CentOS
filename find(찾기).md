@@ -26,7 +26,7 @@ find / -name "pass*" -type d 에서 -type d 는 d는 디렉토리다
 자세하게 보기
 <br>
 
-find / -name "passwd" -type f -exec ls -l {} \;
+
 <br>
 중요한 것은 마지막에 ; 해줘야함
 
