@@ -6,6 +6,13 @@
 <br>
 <br>
 
+![4](https://github.com/fxzz/CentOS/assets/3148006/8909cb59-4384-42b1-9204-9c7028060157)
+
+1. 30분 3시간 마다
+
+<br>
+<br>
+
 ![2](https://github.com/fxzz/CentOS/assets/3148006/326fb6ca-6981-4f0c-9ed5-4d00cb4f8b13)
 
 vi 편집기가 실행된다.
