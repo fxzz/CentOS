@@ -9,3 +9,9 @@
 이 상태에서 i를 누르면 아래에 insert가 나온다 이때 마음대로 쓰면 써진다.
 
 ![2](https://github.com/fxzz/CentOS/assets/3148006/ecb54000-2abf-4a6d-803a-65df982ca77c)
+
+<br><br>
+
+이제 esc를 누르면 명령 모드로 진입한다 아래에 insert가 사라졌다
+
+![3](https://github.com/fxzz/CentOS/assets/3148006/b4277498-07dc-4b6e-a4f6-c8d4d97a5574)
