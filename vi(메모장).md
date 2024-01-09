@@ -58,3 +58,9 @@ esc로 다시 명령 모드로 진입후에 저장,검색,기타 작업을 하�
 
 ![8](https://github.com/fxzz/CentOS/assets/3148006/33bbe523-b5d5-40fd-baa8-c707efcbc653)
 
+<br><br>
+vi 파일명을 입력하면 열린다
+
+![1](https://github.com/fxzz/CentOS/assets/3148006/beaa1814-3723-40f7-9800-e3cbe073ed48)
+
+
