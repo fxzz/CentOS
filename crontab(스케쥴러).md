@@ -24,3 +24,6 @@ vi 편집기가 실행된다.
 <br>
 <br>
 
+ crontab -r 는 현재 작성한 파일을 제거
+ <br>
+crontab -e 는 현재 크론텝 에딧
