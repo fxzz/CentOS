@@ -27,3 +27,8 @@ vi 편집기가 실행된다.
  crontab -r 는 현재 작성한 파일을 제거
  <br>
 crontab -e 는 현재 크론텝 에딧
+ <br>
+ 현재 사용자의 크론 테이블에 등록된 크론 작업들
+[root@localhost findtest]# crontab -l
+no crontab for root
+<br>
