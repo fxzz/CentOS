@@ -20,3 +20,12 @@ find / -name "pass*" -type d 에서 -type d 는 d는 디렉토리다
 <br>
 
 ![1](https://github.com/fxzz/CentOS/assets/3148006/1d58c0cc-343a-4957-adbf-85cf87c22549)
+
+
+
+자세하게 보기
+<br>
+
+find / -name "passwd" -type f -exec ls -l {} \;
+
+![1](https://github.com/fxzz/CentOS/assets/3148006/da6edc14-0c1a-4848-85b1-962b40642d91)
