@@ -46,5 +46,15 @@ esc로 다시 명령 모드로 진입후에 저장,검색,기타 작업을 하�
 
 ![6](https://github.com/fxzz/CentOS/assets/3148006/bb74b561-4ece-470c-b91e-a47411d1a180)
 
+<br>
+:q 하면 나간다
+<br>
 
+![7](https://github.com/fxzz/CentOS/assets/3148006/c73b27b5-421c-4ba3-8561-4eff8abe8554)
+
+<br><br>
+
+파일 확인
+
+![8](https://github.com/fxzz/CentOS/assets/3148006/33bbe523-b5d5-40fd-baa8-c707efcbc653)
 
