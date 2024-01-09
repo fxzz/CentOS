@@ -32,3 +32,26 @@ crontab -e 는 현재 크론텝 에딧
 [root@localhost findtest]# crontab -l
 no crontab for root
 <br>
+
+<br><br>
+
+## 파이썬 코드 스케쥴러
+
+vi로 간단하게 코드를 사용
+
+![1](https://github.com/fxzz/CentOS/assets/3148006/1917c7ff-37ac-4d7f-8fb5-cd0c16ab8b03)
+
+<br>
+<br>
+
+crontab -e로 추가해주고
+
+![2](https://github.com/fxzz/CentOS/assets/3148006/a60c9ce4-64f1-403b-8f5c-760a2fee297c)
+
+<br>
+<br>
+
+crontab -l 로 등록 확인하고 테스트
+
+
+![3](https://github.com/fxzz/CentOS/assets/3148006/113c9c12-2d7e-4d3a-9ee0-1fb8376902cb)
