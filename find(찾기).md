@@ -10,6 +10,8 @@ find / -name "passwd" 로 찾는다
 
 
 
+<br>
+
 폴더를 찾는 방법
 
 find / -name "pass*" -type d 에서 -type d 는 d는 디렉토리다
