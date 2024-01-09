@@ -69,6 +69,7 @@ vi 파일명을 입력하면 열린다
 
 ![2](https://github.com/fxzz/CentOS/assets/3148006/e777882e-16f1-4ec3-b9c2-1f10ddb5cb83)
 
-
+<br><br>
+저장 안하고 나가기 :q!
 
 
