@@ -16,5 +16,7 @@ netstat -atunp 을 하면 네트워크 상태를 볼수있다
 netstat -atunp | grep "111" 이렇게 111번이 있으면 그것만 찾아달라고 하면 된다
 
 <br><br>
+리눅스에서 파이프란 앞에 결과를 뒤에 전달해준다는 뜻이다
+<br><br>
 
 ![2](https://github.com/fxzz/CentOS/assets/3148006/830c582d-5ed9-4735-a351-4965214b52b3)
