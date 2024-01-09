@@ -42,4 +42,10 @@ mv ./passwd 현재폴더의 passwd 파일을 ./dir1로 이동시킨다
 ![1](https://github.com/fxzz/CentOS/assets/3148006/188e1d7a-1e15-4704-bc8c-e8f49f20b7ea)
 
 
+폴더를 지우려면 rm -r 을 써야함 -r은 안에있는 파일까지 전부 지우겠다는 뜻
+
+![1](https://github.com/fxzz/CentOS/assets/3148006/fd40d434-7098-4b11-8775-2196c894edf9)
+
+
+
 
