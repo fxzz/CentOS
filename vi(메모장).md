@@ -63,4 +63,12 @@ vi 파일명을 입력하면 열린다
 
 ![1](https://github.com/fxzz/CentOS/assets/3148006/beaa1814-3723-40f7-9800-e3cbe073ed48)
 
+<br><br>
+
+:wq 하면 저장하고 나간다
+
+![2](https://github.com/fxzz/CentOS/assets/3148006/e777882e-16f1-4ec3-b9c2-1f10ddb5cb83)
+
+
+
 
