@@ -29,3 +29,15 @@ cp 치고 /etc/passwrd 파일을 ./ 현재 디렉토리에 복사하겠다는 �
 mv ./passwd 현재폴더의 passwd 파일을 ./dir1로 이동시킨다
 
 ![1](https://github.com/fxzz/CentOS/assets/3148006/ca1e73d6-b373-487d-8bca-fb63a530f27b)
+
+
+### rm (리무브)
+
+폴더와 파일 모두 지우기 가능하다.
+
+
+
+![1](https://github.com/fxzz/CentOS/assets/3148006/188e1d7a-1e15-4704-bc8c-e8f49f20b7ea)
+
+
+
