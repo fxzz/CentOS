@@ -16,3 +16,7 @@ rmdir dir2를 하면 리무브(삭제)된다 단 빈폴더만 삭제 가능
 cp 치고 /etc/passwrd 파일을 ./ 현재 디렉토리에 복사하겠다는 뜻
 
 ![3](https://github.com/fxzz/CentOS/assets/3148006/dbe9034c-7a7b-4418-876c-b906295099b4)
+
+이름을 바꿔서 복사도 가능
+
+![5](https://github.com/fxzz/CentOS/assets/3148006/f7a604a7-940c-4aa3-8002-c05855d8c1d6)
